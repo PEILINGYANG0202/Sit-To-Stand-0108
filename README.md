@@ -17,8 +17,8 @@ Sit to Stand 膝蓋的關鍵點：右側：24, 26, 28/ 左側：23, 25, 27
 <br>
 <h3>4.mov 影片讀取結果：</h3>
 體適能標準影片來源：<br>
-(1) https://www.youtube.com/watch?v=Hy436yxQJMc <br>
-(2) https://www.youtube.com/watch?v=Je8jzTzKUcA <br>
+(1) 02.mov https://www.youtube.com/watch?v=Hy436yxQJMc <br>
+(2) 03.mov https://www.youtube.com/watch?v=Je8jzTzKUcA <br>
 <br>
 運行程式碼：<br>
 (1) https://youtube.com/shorts/uQqp36EN7AU?feature=share <br>
