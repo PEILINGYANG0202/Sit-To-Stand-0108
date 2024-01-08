@@ -1,7 +1,7 @@
 # Sit to Stand
 
 &emsp;<font size=6><table><tr><td bgcolor=#ffff99> 
-Leading Leg 2023/12/12&ensp; </td></tr></table></font>
+Leading Leg 2024/01/08&ensp; </td></tr></table></font>
 <br>
 <h3>判讀程式碼目標：</h3>
 <h4>透過 MediaPipe 和 OpenCV 庫來偵測並計算髖部、膝蓋彎曲角度的程式，分析每個影片左、右兩側原地「坐立->起立->坐立」幾次</h4> 
