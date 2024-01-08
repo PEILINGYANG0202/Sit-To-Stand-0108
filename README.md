@@ -4,7 +4,7 @@
 Sit to Stand 2024/01/08&ensp; </td></tr></table></font>
 <br>
 <h3>判讀程式碼目標：</h3>
-<h4>透過 MediaPipe 和 OpenCV 庫來偵測並計算髖部、膝蓋彎曲角度的程式，分析每個影片左、右兩側原地「坐立->起立->坐立」幾次</h4> 
+<h4>透過 MediaPipe 和 OpenCV 庫來偵測並計算髖部、膝蓋彎曲角度的程式，分析每個影片左、右兩側原地「坐立->起立->坐立」幾次，並且計算出每次 Sit to Stand 所需時間（秒）</h4> 
 <br>
 Mediapipe 的骨架模型：
 
